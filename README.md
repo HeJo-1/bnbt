@@ -62,6 +62,9 @@ go run main.go
 
 You will be greeted with the main menu.
 
+<img width="424" height="326" alt="image" src="https://github.com/user-attachments/assets/d5f2aadf-efb6-471c-ad52-aa6afd3af3e4" />
+
+
 ### Step 2: Build the Payload
 
 1.  From the main menu, select option `[2] Build Payload`.
